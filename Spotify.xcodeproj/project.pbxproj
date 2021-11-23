@@ -29,6 +29,7 @@
 		4D1D10B1274B782500BF27EF /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D10B0274B782500BF27EF /* AudioTrack.swift */; };
 		4D1D10B3274B783100BF27EF /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D10B2274B783100BF27EF /* Artist.swift */; };
 		4D1D10B5274B784700BF27EF /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D10B4274B784700BF27EF /* UserProfile.swift */; };
+		4D64C6AE274C92CF00EC6D72 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D64C6AD274C92CF00EC6D72 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		4D1D10B0274B782500BF27EF /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		4D1D10B2274B783100BF27EF /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		4D1D10B4274B784700BF27EF /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		4D64C6AD274C92CF00EC6D72 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				4D1D107F274B6C0000BF27EF /* Assets.xcassets */,
 				4D1D1076274B6C0000BF27EF /* AppDelegate.swift */,
 				4D1D1078274B6C0000BF27EF /* SceneDelegate.swift */,
+				4D64C6AD274C92CF00EC6D72 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				4D1D1099274B773E00BF27EF /* AuthViewController.swift in Sources */,
 				4D1D1077274B6C0000BF27EF /* AppDelegate.swift in Sources */,
 				4D1D10B5274B784700BF27EF /* UserProfile.swift in Sources */,
+				4D64C6AE274C92CF00EC6D72 /* Extensions.swift in Sources */,
 				4D1D1095274B770900BF27EF /* LibraryViewController.swift in Sources */,
 				4D1D10B3274B783100BF27EF /* Artist.swift in Sources */,
 				4D1D10A3274B777F00BF27EF /* PlaylistViewController.swift in Sources */,
