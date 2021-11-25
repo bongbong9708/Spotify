@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D0D3221274F2A53004A7FC7 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0D3220274F2A53004A7FC7 /* AuthResponse.swift */; };
 		4D1D1077274B6C0000BF27EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D1076274B6C0000BF27EF /* AppDelegate.swift */; };
 		4D1D1079274B6C0000BF27EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D1078274B6C0000BF27EF /* SceneDelegate.swift */; };
 		4D1D107B274B6C0000BF27EF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1D107A274B6C0000BF27EF /* HomeViewController.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D0D3220274F2A53004A7FC7 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 		4D1D1073274B6C0000BF27EF /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D1D1076274B6C0000BF27EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D1D1078274B6C0000BF27EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				4D1D10B0274B782500BF27EF /* AudioTrack.swift */,
 				4D1D10B2274B783100BF27EF /* Artist.swift */,
 				4D1D10B4274B784700BF27EF /* UserProfile.swift */,
+				4D0D3220274F2A53004A7FC7 /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				4D1D109F274B776700BF27EF /* ProfileViewController.swift in Sources */,
 				4D1D1091274B76C300BF27EF /* TabBarViewController.swift in Sources */,
 				4D1D10AD274B780000BF27EF /* HapticsManager.swift in Sources */,
+				4D0D3221274F2A53004A7FC7 /* AuthResponse.swift in Sources */,
 				4D1D10B1274B782500BF27EF /* AudioTrack.swift in Sources */,
 				4D1D107B274B6C0000BF27EF /* HomeViewController.swift in Sources */,
 				4D1D1099274B773E00BF27EF /* AuthViewController.swift in Sources */,
